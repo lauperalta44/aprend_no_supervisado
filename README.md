@@ -24,7 +24,7 @@ El repositorio está organizado de la siguiente manera:
 
 ## Variables disponibles
 
-A continuacion se listan las variables disponibles para el análisis:
+A continuación se listan las variables disponibles para el análisis:
 
 | Variable                | Descripción                                                                                                            | Tipo de Datos |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------|---------------|
@@ -63,6 +63,10 @@ A continuacion se listan las variables disponibles para el análisis:
 | P5661S6                 | Presencia de animales molestos (valores del 1 al 4)                                                                  | int64         |
 | P5661S7                 | Presencia de animales molestos (valores del 1 al 4)                                                                  | int64         |
 | FEX_C                   | Factor de expansión cuantificado de forma numérica (tipo object)                                                       | object        |
+
+A continuación el mapa de calor de estas variables
+
+![MapaCalor](https://github.com/lauperalta44/aprend_no_supervisado/assets/129508229/65717965-b57a-4c6a-8efa-4cc8b85feca5)
 
 ## Instrucciones para Reproducir el Análisis
 
