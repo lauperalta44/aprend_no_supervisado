@@ -30,7 +30,7 @@ El repositorio está organizado de la siguiente manera:
   - `Conclusiones`: Este proyecto sienta las bases para comprender la pobreza multidimensional en Colombia y ofrece perspectivas valiosas para la formulación de políticas públicas efectivas en la lucha contra la pobreza en el país.
 
 - **Video Presentación**: En este link se encuentra el video presenacion del proyecto:
-  -[![Proyecto de Identificación de Patrones de Pobreza Multidimensional en Colombia asociado a las características de las viviendas en los hogares](https://img.youtube.com/vi/ZmPGZZcKcxM)](https://www.youtube.com/watch?v=ZmPGZZcKcxM)
+  -[![Proyecto de Identificación de Patrones de Pobreza Multidimensional en Colombia asociado a las características de las viviendas en los hogares](https://img.youtube.com/vi/ZmPGZZcKcxM/0.jpg)](https://www.youtube.com/watch?v=ZmPGZZcKcxM)
  
 
 - **README.md**: En este espacio se busca proporcionar una descripción general del proyecto y su estructura.
