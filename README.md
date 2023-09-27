@@ -19,17 +19,19 @@ El repositorio está organizado de la siguiente manera:
   
   - `Proyecto Aprendizaje No Supervisado.ipynb`: Código para preprocesar los datos y generar análisis descriptivo de los datos. Incluye la descripción detallada de los datos.
 
-- **Documento_entrega**: Contiene el documento del proyecto estructurado asi:
+- **Documento_entrega**: Aquí el documento del proyecto con el siguiente contenido:
   
-  - `Introducción`: La pobreza multidimensional afecta a más de 1.2 mil millones de personas en países en desarrollo. En Colombia, se observa una reducción en el índice de pobreza multidimensional en 2023. Se nos ha contratado para analizar datos de vivienda y encontrar relaciones con la pobreza multidimensional.
+  - `Introducción`: La pobreza multidimensional afecta a más de 1.2 mil millones de personas en países en desarrollo. En Colombia, se observa una reducción en el índice de pobreza multidimensional en 2023. Entonces se va a analizar datos de vivienda y encontrar relaciones con la pobreza multidimensional.
 
-  - `Materiales y Métodos`: Se explora y preprocesa un conjunto de datos de 93,161 hogares colombianos con 35 variables. Se utiliza el algoritmo K-Medias para el análisis de clustering debido a su eficiencia y calidad de resultados.
+  - `Materiales y Métodos`: Se explora y preprocesa un conjunto de datos de 93,161 hogares colombianos con 35 variables. Se utilizan varios algoritmos de clustering para el análisis.
 
   - `Resultados y Discusión`: El análisis revela la importancia de factores ambientales y materiales de construcción en la pobreza multidimensional. Aunque se intenta crear un índice unidimensional, se utiliza una matriz truncada para una mejor interpretabilidad de los datos.
 
   - `Conclusiones`: Este proyecto sienta las bases para comprender la pobreza multidimensional en Colombia y ofrece perspectivas valiosas para la formulación de políticas públicas efectivas en la lucha contra la pobreza en el país.
 
-- **Video Presentación**: En este link se encuentra el video presenacion del proyecto: 
+- **Video Presentación**: En este link se encuentra el video presenacion del proyecto:
+  -[![Proyecto de Identificación de Patrones de Pobreza Multidimensional en Colombia asociado a las características de las viviendas en los hogares](https://img.youtube.com/vi/ZmPGZZcKcxM)](https://www.youtube.com/watch?v=ZmPGZZcKcxM)
+ 
 
 - **README.md**: En este espacio se busca proporcionar una descripción general del proyecto y su estructura.
 
