@@ -1,10 +1,11 @@
-# Análisis Multidimensional de la Pobreza en Colombia: Descubriendo Historias en Datos de Vivienda
+
+# Proyecto de Identificación de Patrones de Pobreza Multidimensional en Colombia asociado a las características de las viviendas en los hogares
 
 ## Descripción del Proyecto
 
-¡Bienvenidos a nuestro viaje de exploración a través de las complejidades de la pobreza multidimensional en Colombia! En este proyecto, hemos emprendido un recorrido por los datos de vivienda recopilados por el DANE en 2022, con un objetivo en mente: buscar patrones y comprender mejor la realidad de las familias colombianas que enfrentan situaciones de vulnerabilidad.
+¡Bienvenidos a nuestro viaje de exploración a través de las complejidades de la pobreza multidimensional en Colombia! En este proyecto, hemos emprendido un recorrido por los datos de vivienda recopilados por el DANE en 2022, con un objetivo en mente: buscar patrones y comprender mejor la realidad de las familias colombianas que enfrentan situaciones de vulnerabilidad desde la perspectiva de la vivienda.
 
-Este proyecto se basa en datos recopilados de hogares colombianos en la Encuesta Nacional de Calidad de Vida del DANE en 2022. Los datos brutos, disponibles en la carpeta "Datos," son el punto de partida para nuestra exploración. Aquí reside la información que nos ayudará a explorar la pobreza multidimensional en Colombia desde la perspectiva de la vivienda.
+Este proyecto utiliza técnicas de aprendizaje no supervisado y reducción de dimensionalidad en datos de vivienda de la Encuesta Nacional de Calidad de Vida del DANE 2022 para identificar patrones relacionados con la pobreza multidimensional en Colombia. El objetivo es desarrollar políticas públicas dirigidas a reducir la pobreza en poblaciones vulnerables.
 
 ## Estructura del Repositorio
 
@@ -18,7 +19,17 @@ El repositorio está organizado de la siguiente manera:
   
   - `Proyecto Aprendizaje No Supervisado.ipynb`: Código para preprocesar los datos y generar análisis descriptivo de los datos. Incluye la descripción detallada de los datos.
 
-- **Documento_entrega**: Contiene el documento del estudio preliminar que introduce la pregunta a abordar, presenta una revisión preliminar de los antecedentes en la literatura e incluye un resumen de la descripción detallada de los datos. También presenta la propuesta metodológica para abordar la pregunta de interés y la bibliografía.
+- **Documento_entrega**: Contiene el documento del proyecto estructurado asi:
+  
+  - `Introducción`: La pobreza multidimensional afecta a más de 1.2 mil millones de personas en países en desarrollo. En Colombia, se observa una reducción en el índice de pobreza multidimensional en 2023. Se nos ha contratado para analizar datos de vivienda y encontrar relaciones con la pobreza multidimensional.
+
+  - `Materiales y Métodos`: Se explora y preprocesa un conjunto de datos de 93,161 hogares colombianos con 35 variables. Se utiliza el algoritmo K-Medias para el análisis de clustering debido a su eficiencia y calidad de resultados.
+
+  - `Resultados y Discusión`: El análisis revela la importancia de factores ambientales y materiales de construcción en la pobreza multidimensional. Aunque se intenta crear un índice unidimensional, se utiliza una matriz truncada para una mejor interpretabilidad de los datos.
+
+  - `Conclusiones`: Este proyecto sienta las bases para comprender la pobreza multidimensional en Colombia y ofrece perspectivas valiosas para la formulación de políticas públicas efectivas en la lucha contra la pobreza en el país.
+
+- **Video Presentación**: En este link se encuentra el video presenacion del proyecto: 
 
 - **README.md**: En este espacio se busca proporcionar una descripción general del proyecto y su estructura.
 
